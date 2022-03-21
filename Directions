@@ -1,0 +1,30 @@
+Problem Description:
+We need an app that will be able to illustrate collecting data for inventory and showing purchases of that inventory. Start with a menu system that will allow the user to choose between functionality. 
+•	Show a list of products (inventory)
+•	Add inventory (price, description, who is selling)
+•	Delete inventory
+•	Purchase a product for a user (removing it from inventory)
+•	Show a list of products sold including their purchaser
+•	Make sure to have dates on all activity
+
+Put a plan together and type out how you will build this app in the analysis section.
+
+Type the UML diagram for the classes in the design portion. Feel free to add any other fields that you would like to share.
+
+ 
+Guidelines:
+•	Use your own creative liberties and make it fun
+•	No more than a team of 5
+•	You will present this to the class at the end of the semester; feel free to choose a speaker for the team. Make it professional and have a working version of code that you can present. Be ready to answer questions about the code. Presentation should be between 5 and 10 minutes including introductions.
+•	Code should be zipped and uploaded to blackboard individually. You will grade your teammates with reasoning for the grade.
+
+Rubric:
+•	Average Team Score (50 pts)
+•	Creativity (10 pts)
+•	App Functional (10 pts)
+•	App Architecture (10 pts)
+•	App Requirements Fulfilled (10 pts)
+•	Analysis (50 pts)
+•	Design (50 pts)
+•	Presentation (50 pts)
+•	Participation (10 pts)
