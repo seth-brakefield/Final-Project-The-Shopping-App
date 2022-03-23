@@ -1,5 +1,6 @@
 Problem Description:
-We need an app that will be able to illustrate collecting data for inventory and showing purchases of that inventory. Start with a menu system that will allow the user to choose between functionality. 
+We need an app that will be able to illustrate collecting data for inventory and showing purchases of that inventory.
+Start with a menu system that will allow the user to choose between functionality. 
 •	Show a list of products (inventory)
 •	Add inventory (price, description, who is selling)
 •	Delete inventory
@@ -15,7 +16,9 @@ Type the UML diagram for the classes in the design portion. Feel free to add any
 Guidelines:
 •	Use your own creative liberties and make it fun
 •	No more than a team of 5
-•	You will present this to the class at the end of the semester; feel free to choose a speaker for the team. Make it professional and have a working version of code that you can present. Be ready to answer questions about the code. Presentation should be between 5 and 10 minutes including introductions.
+•	You will present this to the class at the end of the semester; feel free to choose a speaker for the team.
+  Make it professional and have a working version of code that you can present. Be ready to answer questions about the code.
+  Presentation should be between 5 and 10 minutes including introductions.
 •	Code should be zipped and uploaded to blackboard individually. You will grade your teammates with reasoning for the grade.
 
 Rubric:
